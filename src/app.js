@@ -66,6 +66,7 @@ server.post("/sign-up", (req, res) => {
     res.status(422).send({ error: "Envie todos os campos!" });
     return;
   }
+
   if (sameUser) {
     res.status(409).send({ error: "Usuário já existente" });
     return;
