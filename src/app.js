@@ -32,7 +32,7 @@ const listTweets = [
   },
   {
     username: "bobEsponja",
-    tweet: "olaaaa´",
+    tweet: "olaaaa",
     avatar:
       "https://img.elo7.com.br/product/original/328A1E4/bob-esponja-e-patrick-em-camadas-arquivo-de-corte-patrick.jpg",
   },
